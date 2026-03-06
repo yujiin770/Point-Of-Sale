@@ -21,6 +21,13 @@
         SalesGroupBox.Visible = True
         POSControlGroupBox.Visible = False
         SettingsGroupBox.Visible = False
+
+        ' Show PrintButton when there are items sold
+        If ItemSoldListBox.Items.Count > 0 Then
+            PrintButton.Visible = True
+        Else
+            PrintButton.Visible = False
+        End If
     End Sub
 
     Private Sub SettingsButton_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles SettingsButton.Click
@@ -130,7 +137,7 @@
 
         Dim amount As Decimal = Val(AmountLabel.Text)
         TotalAmountLabel.Text = (Val(TotalAmountLabel.Text) + amount).ToString("0.00")
-    
+
         AmountLabel.Text = "0.00"
         QuantityTextBox.Text = Nothing
         SubmitButton.Enabled = True
@@ -268,6 +275,22 @@
         SubmitButton.ForeColor = Color.FromArgb(85, 66, 61)
     End Sub
 
+    Private Sub PrintButton_MouseClick(ByVal sender As Object, ByVal e As System.Windows.Forms.MouseEventArgs) Handles PrintButton.MouseClick
+        ' Optional: Clear sales after printing
+        Dim confirmResult As DialogResult = MessageBox.Show("Clear sales after printing?", "Print Options", MessageBoxButtons.YesNoCancel, MessageBoxIcon.Question)
+
+        If confirmResult = DialogResult.Yes Then
+            ' Clear the sales list
+            ItemSoldListBox.Items.Clear()
+            lblTotalSales.Text = "0.00"
+            PrintButton.Visible = False
+        ElseIf confirmResult = DialogResult.Cancel Then
+            ' Cancel the print
+            Exit Sub
+        End If
+        ' If No, just print without clearing
+    End Sub
+
     Private Sub PrintButton_MouseMove(ByVal sender As Object, ByVal e As System.Windows.Forms.MouseEventArgs) Handles PrintButton.MouseMove
         PrintButton.BackColor = Color.FromArgb(255, 192, 173)
         PrintButton.ForeColor = Color.FromArgb(85, 66, 61)
@@ -297,5 +320,91 @@
 
     Private Sub Label9_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles Label9.Click
 
+    End Sub
+
+    Private Sub PrintButton_Click(ByVal sender As System.Object, ByVal e As System.EventArgs) Handles PrintButton.Click
+        If ItemSoldListBox.Items.Count = 0 Then
+            MsgBox("No sales data to print!", MsgBoxStyle.OkOnly, "Print Error")
+            Exit Sub
+        End If
+
+        ' Create PrintDocument
+        Dim printDoc As New Printing.PrintDocument()
+        AddHandler printDoc.PrintPage, AddressOf PrintDoc_PrintPage
+
+        ' Show print dialog
+        Dim printDialog As New PrintDialog()
+        printDialog.Document = printDoc
+
+        If printDialog.ShowDialog() = DialogResult.OK Then
+            printDoc.Print()
+        End If
+    End Sub
+
+    Private Sub PrintDoc_PrintPage(ByVal sender As Object, ByVal e As Printing.PrintPageEventArgs)
+        ' Define fonts and formatting
+        Dim titleFont As New Font("Courier New", 16, FontStyle.Bold)
+        Dim headerFont As New Font("Courier New", 10, FontStyle.Bold)
+        Dim regularFont As New Font("Courier New", 10)
+        Dim lineHeight As Single = 20
+        Dim currentY As Single = 50
+        Dim leftMargin As Integer = 50
+
+        ' Print header
+        e.Graphics.DrawString("BREW HAVEN COFFEE", titleFont, Brushes.Black, leftMargin, currentY)
+        currentY += lineHeight * 2
+
+        e.Graphics.DrawString("TODAY'S SALES REPORT", headerFont, Brushes.Black, leftMargin, currentY)
+        currentY += lineHeight
+        e.Graphics.DrawString("Date: " & DateTime.Now.ToString("MM/dd/yyyy"), regularFont, Brushes.Black, leftMargin, currentY)
+        currentY += lineHeight
+        e.Graphics.DrawString("Time: " & DateTime.Now.ToString("hh:mm tt"), regularFont, Brushes.Black, leftMargin, currentY)
+        currentY += lineHeight * 2
+
+        ' Print column headers
+        e.Graphics.DrawString("PRODUCT", headerFont, Brushes.Black, leftMargin, currentY)
+        e.Graphics.DrawString("QTY", headerFont, Brushes.Black, leftMargin + 200, currentY)
+        e.Graphics.DrawString("PRICE", headerFont, Brushes.Black, leftMargin + 250, currentY)
+        currentY += lineHeight
+        e.Graphics.DrawString("----------------------------------------", regularFont, Brushes.Black, leftMargin, currentY)
+        currentY += lineHeight
+
+        ' Print each item sold
+        Dim totalSales As Decimal = 0
+
+        For Each item As String In ItemSoldListBox.Items
+            e.Graphics.DrawString(item, regularFont, Brushes.Black, leftMargin, currentY)
+
+            ' Extract price from item string for total calculation
+            Dim itemParts As String() = item.Split(New String() {"     "}, StringSplitOptions.None)
+            If itemParts.Length >= 3 Then
+                Dim itemAmount As Decimal
+                If Decimal.TryParse(itemParts(2).Trim(), itemAmount) Then
+                    totalSales += itemAmount
+                End If
+            End If
+
+            currentY += lineHeight
+
+            ' Check if need new page
+            If currentY > e.MarginBounds.Bottom - 100 Then
+                e.HasMorePages = True
+                Exit Sub
+            End If
+        Next
+
+        currentY += lineHeight
+        e.Graphics.DrawString("----------------------------------------", regularFont, Brushes.Black, leftMargin, currentY)
+        currentY += lineHeight
+
+        ' Print totals
+        e.Graphics.DrawString("TOTAL SALES:", headerFont, Brushes.Black, leftMargin, currentY)
+        e.Graphics.DrawString("₱ " & totalSales.ToString("N2"), headerFont, Brushes.Black, leftMargin + 250, currentY)
+        currentY += lineHeight * 2
+
+        ' Print footer
+        e.Graphics.DrawString("Thank you for your business!", regularFont, Brushes.Black, leftMargin, currentY)
+        currentY += lineHeight
+        e.Graphics.DrawString("--- End of Report ---", regularFont, Brushes.Black, leftMargin, currentY)
     End Sub
 End Class

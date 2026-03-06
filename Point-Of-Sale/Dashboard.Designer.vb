@@ -565,13 +565,12 @@ Partial Class Dashboard
         Me.PrintButton.FlatStyle = System.Windows.Forms.FlatStyle.Flat
         Me.PrintButton.Font = New System.Drawing.Font("Constantia", 14.25!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
         Me.PrintButton.ForeColor = System.Drawing.SystemColors.Control
-        Me.PrintButton.Location = New System.Drawing.Point(274, 422)
+        Me.PrintButton.Location = New System.Drawing.Point(258, 395)
         Me.PrintButton.Name = "PrintButton"
         Me.PrintButton.Size = New System.Drawing.Size(139, 33)
         Me.PrintButton.TabIndex = 17
         Me.PrintButton.Text = "Print"
         Me.PrintButton.UseVisualStyleBackColor = False
-        Me.PrintButton.Visible = False
         '
         'Label12
         '
@@ -638,9 +637,9 @@ Partial Class Dashboard
         Me.BackColor = System.Drawing.Color.FromArgb(CType(CType(85, Byte), Integer), CType(CType(66, Byte), Integer), CType(CType(61, Byte), Integer))
         Me.ClientSize = New System.Drawing.Size(727, 578)
         Me.Controls.Add(Me.MainMenuGroupBox)
-        Me.Controls.Add(Me.POSControlGroupBox)
         Me.Controls.Add(Me.SalesGroupBox)
         Me.Controls.Add(Me.SettingsGroupBox)
+        Me.Controls.Add(Me.POSControlGroupBox)
         Me.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None
         Me.Name = "Dashboard"
         Me.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen
