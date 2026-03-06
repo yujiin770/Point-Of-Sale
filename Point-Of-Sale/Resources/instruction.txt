@@ -1,0 +1,74 @@
+Instruction 
+
+create a project a name it "SplashScreen"
+after that you add timer and name it "Timer_SplashScreen"
+for the label1 change the text name it POINT OF SALES MANAGEMENT SYSTEM
+and for the label2 is "lbl_ProgressCount" and for the ProgressBar1
+do not change the name and find the style in properties and choose continuous and the last one is 
+Button and name it "btn_Start"
+
+
+create new add Windows Form and name it "Login"
+add new label again and name it "PIN" next is RectangleShape and find the CornerRadius in properties and set in 80 
+next is add new RectangleShape and set the CornerRadius in 23, next add new button and name it btn_Login and last one is 
+add new label and and the text name "© Copyright 2023 - Meow technology Inc." 
+
+
+
+Create new add Windows Form and name it "MainForm"
+Add new button and change the text name of "POINT OF SALES" and change the name of button and name it "btn_POS",
+add new button again and change the name of "SALES" and change the name of button and name it "btn_Sales", 
+again add new button and change the name of "SETTINGS" and change the name of button and name it "btn_Settings",
+add new label and change the text name and set name is "POINT OF SALES', and change the name of label set it to "lbl_POS"
+add again label and change the name and set name is "CATEGORIES:" and change the name of label set it "lbl_Categories", 
+and add new ComboBox and change the name of ComboBox set it "cmb_Categories", add new label and change the text name
+and set it to "PRODUCTNAME:" and change the name of label in "lbl_ProductName", and add new ComboBox and change the name of ComboBox set it "cmb_ProductName",
+add again label and change the text name and set name is "Price:" and change the name of label set it to "lbl_Price",
+add again label for display the amount of product change the text name and set of "0" and change the name of label in "lbl_Prices",
+add again label and change the text name and set name "QUANTITY:" and change the name of label and set it to "lbl_Quantity",
+add new Textbox and chang the name of textbox set it name is "txt_Quantity", and add new RactangleShape, and add new label change the text name of "AMOUNT" and change 
+the label name set it "lbl_Amount", add new label again change the text name in "0" and change the name of label in "lbl_TotalAmount".
+add new ListBox change the name of ListBox in "lb_ProductName", add again ListBox and name it "lb_Price", add again ListBox and name it "lb_Quantity".
+add new Button change the text button name in "Add Item" and change the buttonname in"btn_AddItem" the task of AddItem button is after you choose in categories and product name
+and input quantity the data will display in ListBox.
+add new Button change the text button name in "SUBMIT" and change the button name in "btn_Submit" the task of Submit button is after you choose in categories and product name
+and input quantity you will proceed in the Payment Form.
+add new Button change the text button name in "VOID ITEM" and change the button name in "btn_VoidItem" the task of VoidItem button is if you have wrong AddItem in Listbox
+you need to click the productname in listbox and click the VoidItem the wrong Additem in ListBox has been remove and messagebox will appear it say"Void Item Has Been Successfull".
+and new Button change the button text name in "CLEAR" the task of Clea Button is Remove all.
+
+Create new add Windows Form and name it "Payment"
+for Payment form you need add new label and change the text of name in "Payment" and change the label name in "lbl_Payment" next is add new label and change the text of name in"Amount" and change
+the label name in "lbl_Amount", next add new "Discount" and change the GroupBox name in "gv_Discount", add new label change the text of name in "Senior Citizen" and change the label name in "lbl_SeniorCitizen"
+add new label change the text name in "PWD" and change the label name in "lbl_PWD", add again label change the text name set it name is "Students" and change the label name in "lbl_Students"
+add 3 checkbox and change the of each name in "cb_SeniorCitizen","cb_PWD","cb_Students".
+
+Create new add Windows Form and name it "Receipt"
+add new 3 listbox and change the name of each ListBox in "lb_ProductName", "lb_Price", "lb_Quantity"
+add new label new change the text of name in "PAYMENT:" and change the LabelName in "lbl_Payment".
+add new label new change the text of name in "TOTAL:" and change the LabelName in "lbl_Total".
+add new label new change the text of name in "DISCOUNT:" and change the LabelName in "lbl_Discount".
+add new label new change the text of name in "CHANGE:" and change the LabelName in "lbl_Change".
+for displaying the payment,total,discount,change 
+add new label for "payment" change the text name in "." and change the LabelName in "lbl_Payments"
+add new label for "totalchange" the text name in "." and change the LabelName in "lbl_TotalPayments"
+add new label for "discount" change the text name in "." and change the LabelName in "lbl_Discounts"
+add new label for "change" change the text name in "." and change the LabelName in "lbl_Change"
+add new Button change the button text name in "Submit" and chang the ButtonName in  "btn_Submit"
+
+Create new add Windows Form and name it "Sales"
+Add new button and change the text name of "POINT OF SALES" and change the name of button and name it "btn_POS",
+add new button again and change the name of "SALES" and change the name of button and name it "btn_Sales", 
+again add new button and change the name of "SETTINGS" and change the name of button and name it "btn_Settings",
+add new Datagridview change the DataGridView Name in "dgv_Sales"
+
+Create new add Windows Form and name it "Settings"
+add new Button change button text name in "LogOut" 
+
+
+
+
+
+
+
+

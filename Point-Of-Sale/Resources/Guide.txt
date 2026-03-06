@@ -1,0 +1,156 @@
+Instruction For OOPL  
+
+
+1. Create a New Project:
+    - Open Visual Studio 2010
+    - Select "File" -> "New" -> "Project".
+    - Choose "Windows Forms Application" under "Visual Basic".
+    - Name your project (e.g., "Point-Of-Sale") and select a location.
+    - Click "OK".
+
+2.  Add Splash Screen:
+    - In the Solution Explorer, right-click on your project.
+    - Select "Add" -> "New Item...".
+    - Choose "Splash Screen" and name it (e.g., "SplashScreenForm.vb").
+    * Click "Add".
+    * Design your splash screen:
+        - Add a `PictureBox` for your logo or image.
+        - Add `Label` controls for your application name ("POINT OF SALES MANAGEMENT"), company name ("Nexus Triad"), and any other relevant information.
+        - Add a `ProgressBar` to simulate loading progress (optional).
+	- Add button and named it "btnStart"
+         Customize the appearance (colors, fonts) as desired.
+    	- Configure the Splash Screen:**
+        - In the Solution Explorer, double-click "My Project" (or right-click the project and select "Properties").
+        - Go to the "Application" tab.
+        - In the "Splash screen" dropdown, select "SplashScreenForm" (or the name you gave it).
+   * **Set the Minimum Display Time:**
+            - In the `SplashScreen.vb` code, add a `Timer` control to the form.
+            - Set the `Interval` property of the `Timer` to the desired display time in milliseconds (ex., Interval: 3000 for 3 seconds).
+            - In the `Timer_Tick` event handler, add code to close the splash screen and open the main login form:
+**ADDITIONAL**		
+    Add Mouse Hover of Each Button using MouseMove in Events.
+Example:
+ Private Sub Button1_MouseMove(ByVal sender As Object, ByVal e As System.Windows.Forms.MouseEventArgs) Handles Button1.MouseMove	
+	-button1.backColor = color.white
+	-button1.foreColor = color.black 
+   
+   Color Palette:	
+	-BackGroundColor = 255, 192, 173
+	-FontColor = 85, 66, 61
+
+3. Form Design:
+Create another Form and named it LoginForm
+       Login Form:	
+        - Add a `PictureBox` for the POS icon/logo.
+        - Add a `Label` for "POINT OF SALES MANAGEMENT".
+        - Add a `Label` for "Nexus Triad" (or your company name).
+        - Add a `Label` for "Password:".
+        - Add a `TextBox` for password input (set `PasswordChar` property to `*`).
+        - Add a `Button` for "SHOW" (to toggle password visibility).
+        - Add a `Button` and named it  "BtnLogin"
+        - Add a `Button` and named it "BtnExit"
+        - Add a `Label` for the "Interesting" message (as shown in the screenshot).
+        - Add a `Label` for the copyright notice.
+        - Design the layout to match the provided screenshot, including colors and fonts.
+
+Create another Form and named it Dashboard
+      Main POS Form:
+        - Add a `Button` with "POS", "SALES", and "SETTINGS" options.
+	  and named it "POSbuttonn" for POS, SALES for "SalesButton" and SETTINGS for "SettingsButton"
+        - Add 2 `GroupBox` and named it "MainMenuGroupBox", and "PosControlGroupBox"
+	- Add 2 ComboBox and named it "CategoriesComboBox" and "ProductNameComboBox"
+        - Add a `TextBox` for Quantity and named it "QuantityTextBox". 
+        - Add `Label` for PRICE, and another label for the result of "Price" ₱0.00 and named it "PriceLabel"
+	- Add a `TextBox` for Quantity and named it "QuantityTextBox". 
+        - Add another 2 Groupbox inside the PosControlGroupBox and named it "AmountGroupBox" and TotalAmountGroupBox"
+	   1. Inside the AmountGroupBox Add 2 label, Amount and  ₱0.00. for  ₱0.00 named it "AmountLabel"
+	   2. Inside the TotalAmountGroupBox Add another 2 label, TotalAmount and  ₱0.00. For  ₱0.00 named it "TotalAmountLabel"	
+        - Add `Button` for "Add item", "Void", "Clear", and "Submit", and named it "AddItemButton" , "VoidButton", "ClearButton", and "SubmitButton".
+Categories and Products:
+        - Populate the `ListBox` for categories in CategoriesComboBox with sample data ("EXPRESSO", "ICED", "DESSERT").
+        - When a category is selected, populate the product name in ProductNameComboBox. this is the provided data, For 'EXPRESSO'("Cafe Latte", "Cafe Americano", "Capuccino") For 'ICED'("Iced-Coffee", "Milk-Tea", "Frappe") and for the 'DESSERT'("Cheesecake", "Brownies", "Chocolate-Cake").
+    Price and Quantity:
+        - Allow the user to enter the quantity of the selected product.
+        - Calculate the amount (price * quantity) and display it in the "AMOUNT" "Amountlabel".
+	- And for the TotalAmount, Calculate the ("TotalAmountLabel" + "AmountLabel") and display it in the 'TotalAmount' "TotalAmountLabel"
+    Add Item:
+        - Use the `Click` event of the "Add item" button to:
+        - Retrieve the product name, price, and quantity.
+        - Format the information into a string (Example: "Product Name - Price x Quantity").
+        - Add the string to the receipt `ListBox`.
+        - Update the total amount.
+    Void:
+        - Use the `Click` event of the "Void" button to remove the selected item from the receipt `ListBox`.
+        - Update the total amount.
+    Clear:
+        - Use the `Click` event of the "Clear" button to clear all input fields and the receipt `ListBox`.
+    Submit (Payment):
+        - Use the `Click` event of the "Submit" button to:
+        - Open the Payment form.
+        - Pass the total amount to the Payment form.
+        - Design the layout to match the provided screenshot.
+Payment Form:
+        - Add a `Label` for "Payment".
+        - Add a `Label` for "Amount".
+        - Add a `TextBox` for the payment amount.
+        - Add a `Button` for "Submit".
+ Sales Form (Empty):
+         Design a placeholder form with a `Label` or `Panel` to indicate "SALES" (as shown in the screenshot).
+
+    Settings Form (Empty):
+         Design a placeholder form to indicate "SETTINGS".
+
+II. Coding and Functionality
+
+1. Splash Screen (Already Covered Above)
+
+2. Login Form:
+    Password Show/Hide:
+        - Use the `Click` event of the "SHOW" button to toggle the `PasswordChar` property of the password `TextBox`.
+    Login Validation:
+        - Use the `Click` event of the "LOGIN" button to:
+        - Retrieve the password from the `TextBox`.
+        - Compare it with a stored password (e.g., a hardcoded password for simplicity).
+        - If the password is correct, hide the login form and show the main POS form.
+        - If incorrect, display an error message.
+    	(Incorrect Password Please Try Again!)
+        * Use the `Click` event of the "EXIT" button to close the application (`Application.Exit()`).
+
+3.Main POS Form:**
+    Categories and Products:
+        - Populate the `ListBox` for categories with sample data (e.g., "Electronics", "Groceries", "Clothing").
+        - When a category is selected, populate the product name `TextBox` (or a product `ListBox` if you want to add more products) with sample data.
+    Price and Quantity:
+        - Allow the user to enter the price and quantity of the selected product.
+        - Calculate the amount (price * quantity) and display it in the "AMOUNT" `TextBox`.
+    Add Item:
+        - Use the `Click` event of the "Add item" button to:
+        - Retrieve the product name, price, and quantity.
+        - Format the information into a string (e.g., "Product Name - Price x Quantity").
+        - Add the string to the receipt `ListBox`.
+        - Update the total amount.
+    Void:
+        - Use the `Click` event of the "Void" button to remove the selected item from the receipt `ListBox`.
+        - Update the total amount.
+    Clear:
+        - Use the `Click` event of the "Clear" button to clear all input fields and the receipt `ListBox`.
+    Submit (Payment):
+        - Use the `Click` event of the "Submit" button to:
+        - Open the Payment form.
+        - Pass the total amount to the Payment form.
+
+4.Payment Form:
+    Payment Amount:
+        - Allow the user to enter the payment amount.
+    Calculate Change:
+        - Use the `Click` event of the "Submit" button to:
+        - Retrieve the payment amount.
+        - Calculate the change (payment amount - total amount).
+        - Display the change in the main POS form.
+        - Close the Payment form.
+
+5. Sales and Settings Forms:
+     Implement the functionality for the "SALES" and "SETTINGS" forms as needed. This could include:
+        - Sales reports.
+        - Product management.
+        - User settings.

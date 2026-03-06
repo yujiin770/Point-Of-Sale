@@ -1,0 +1,222 @@
+C:\Users\Administrator\Desktop\DEMO 3RD YEAR\Point-Of-Sale\Point-Of-Sale\bin\Debug\Point-Of-Sale.exe
+C:\Users\Administrator\Desktop\DEMO 3RD YEAR\Point-Of-Sale\Point-Of-Sale\bin\Debug\Point-Of-Sale.pdb
+C:\Users\Administrator\Desktop\DEMO 3RD YEAR\Point-Of-Sale\Point-Of-Sale\bin\Debug\Point-Of-Sale.xml
+C:\Users\Administrator\Desktop\DEMO 3RD YEAR\Point-Of-Sale\Point-Of-Sale\obj\x86\Debug\Point_Of_Sale.LoginForm.resources
+C:\Users\Administrator\Desktop\DEMO 3RD YEAR\Point-Of-Sale\Point-Of-Sale\obj\x86\Debug\Point_Of_Sale.Resources.resources
+C:\Users\Administrator\Desktop\DEMO 3RD YEAR\Point-Of-Sale\Point-Of-Sale\obj\x86\Debug\Point_Of_Sale.SplashScreenForm.resources
+C:\Users\Administrator\Desktop\DEMO 3RD YEAR\Point-Of-Sale\Point-Of-Sale\obj\x86\Debug\Point-Of-Sale.vbproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\DEMO 3RD YEAR\Point-Of-Sale\Point-Of-Sale\obj\x86\Debug\Point-Of-Sale.exe
+C:\Users\Administrator\Desktop\DEMO 3RD YEAR\Point-Of-Sale\Point-Of-Sale\obj\x86\Debug\Point-Of-Sale.xml
+C:\Users\Administrator\Desktop\DEMO 3RD YEAR\Point-Of-Sale\Point-Of-Sale\obj\x86\Debug\Point-Of-Sale.pdb
+D:\Point-Of-Sale\Point-Of-Sale\obj\x86\Debug\Point-Of-Sale.exe
+D:\Point-Of-Sale\Point-Of-Sale\obj\x86\Debug\Point-Of-Sale.xml
+D:\Point-Of-Sale\Point-Of-Sale\obj\x86\Debug\Point-Of-Sale.pdb
+D:\Point-Of-Sale\Point-Of-Sale\bin\Debug\Point-Of-Sale.exe
+D:\Point-Of-Sale\Point-Of-Sale\bin\Debug\Point-Of-Sale.pdb
+D:\Point-Of-Sale\Point-Of-Sale\bin\Debug\Point-Of-Sale.xml
+D:\Point-Of-Sale\Point-Of-Sale\obj\x86\Debug\Point_Of_Sale.LoginForm.resources
+D:\Point-Of-Sale\Point-Of-Sale\obj\x86\Debug\Point_Of_Sale.Resources.resources
+D:\Point-Of-Sale\Point-Of-Sale\obj\x86\Debug\Point_Of_Sale.SplashScreenForm.resources
+D:\Point-Of-Sale\Point-Of-Sale\obj\x86\Debug\Point-Of-Sale.vbproj.GenerateResource.Cache
+E:\Point-Of-Sale\Point-Of-Sale\obj\x86\Debug\Point-Of-Sale.exe
+E:\Point-Of-Sale\Point-Of-Sale\obj\x86\Debug\Point-Of-Sale.xml
+E:\Point-Of-Sale\Point-Of-Sale\obj\x86\Debug\Point-Of-Sale.pdb
+C:\Users\CSS Laboratory\Desktop\Point-Of-Sale\Point-Of-Sale\obj\x86\Debug\Point-Of-Sale.exe
+C:\Users\CSS Laboratory\Desktop\Point-Of-Sale\Point-Of-Sale\obj\x86\Debug\Point-Of-Sale.xml
+C:\Users\CSS Laboratory\Desktop\Point-Of-Sale\Point-Of-Sale\obj\x86\Debug\Point-Of-Sale.pdb
+C:\Users\CSS Laboratory\Desktop\Point-Of-Sale\Point-Of-Sale\bin\Debug\Point-Of-Sale.exe
+C:\Users\CSS Laboratory\Desktop\Point-Of-Sale\Point-Of-Sale\bin\Debug\Point-Of-Sale.pdb
+C:\Users\CSS Laboratory\Desktop\Point-Of-Sale\Point-Of-Sale\bin\Debug\Point-Of-Sale.xml
+C:\Users\CSS Laboratory\Desktop\Point-Of-Sale\Point-Of-Sale\obj\x86\Debug\Point_Of_Sale.Dashboard.resources
+C:\Users\CSS Laboratory\Desktop\Point-Of-Sale\Point-Of-Sale\obj\x86\Debug\Point_Of_Sale.LoginForm.resources
+C:\Users\CSS Laboratory\Desktop\Point-Of-Sale\Point-Of-Sale\obj\x86\Debug\Point_Of_Sale.Resources.resources
+C:\Users\CSS Laboratory\Desktop\Point-Of-Sale\Point-Of-Sale\obj\x86\Debug\Point_Of_Sale.SplashScreenForm.resources
+C:\Users\CSS Laboratory\Desktop\Point-Of-Sale\Point-Of-Sale\obj\x86\Debug\Point-Of-Sale.vbproj.GenerateResource.Cache
+C:\Users\CSS Laboratory\Desktop\Point-Of-Sale\Point-Of-Sale\obj\x86\Debug\Point_Of_Sale.PaymentForm.resources
+C:\Users\Animation Laboratory\Desktop\Point-Of-Sale\Point-Of-Sale\obj\x86\Debug\Point-Of-Sale.exe
+C:\Users\Animation Laboratory\Desktop\Point-Of-Sale\Point-Of-Sale\obj\x86\Debug\Point-Of-Sale.xml
+C:\Users\Animation Laboratory\Desktop\Point-Of-Sale\Point-Of-Sale\obj\x86\Debug\Point-Of-Sale.pdb
+C:\Users\Animation Laboratory\Desktop\Point-Of-Sale\Point-Of-Sale\bin\Debug\Point-Of-Sale.exe
+C:\Users\Animation Laboratory\Desktop\Point-Of-Sale\Point-Of-Sale\bin\Debug\Point-Of-Sale.pdb
+C:\Users\Animation Laboratory\Desktop\Point-Of-Sale\Point-Of-Sale\bin\Debug\Point-Of-Sale.xml
+C:\Users\Animation Laboratory\Desktop\Point-Of-Sale\Point-Of-Sale\obj\x86\Debug\Point_Of_Sale.Dashboard.resources
+C:\Users\Animation Laboratory\Desktop\Point-Of-Sale\Point-Of-Sale\obj\x86\Debug\Point_Of_Sale.LoginForm.resources
+C:\Users\Animation Laboratory\Desktop\Point-Of-Sale\Point-Of-Sale\obj\x86\Debug\Point_Of_Sale.Resources.resources
+C:\Users\Animation Laboratory\Desktop\Point-Of-Sale\Point-Of-Sale\obj\x86\Debug\Point_Of_Sale.PaymentForm.resources
+C:\Users\Animation Laboratory\Desktop\Point-Of-Sale\Point-Of-Sale\obj\x86\Debug\Point_Of_Sale.RecieptForm.resources
+C:\Users\Animation Laboratory\Desktop\Point-Of-Sale\Point-Of-Sale\obj\x86\Debug\Point_Of_Sale.SplashScreenForm.resources
+C:\Users\Animation Laboratory\Desktop\Point-Of-Sale\Point-Of-Sale\obj\x86\Debug\Point-Of-Sale.vbproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\Point-Of-Sale\Point-Of-Sale\obj\x86\Debug\Point-Of-Sale.exe
+C:\Users\Administrator\Desktop\Point-Of-Sale\Point-Of-Sale\obj\x86\Debug\Point-Of-Sale.xml
+C:\Users\Administrator\Desktop\Point-Of-Sale\Point-Of-Sale\obj\x86\Debug\Point-Of-Sale.pdb
+C:\Users\Administrator\Desktop\Point-Of-Sale\Point-Of-Sale\bin\Debug\Point-Of-Sale.exe
+C:\Users\Administrator\Desktop\Point-Of-Sale\Point-Of-Sale\bin\Debug\Point-Of-Sale.pdb
+C:\Users\Administrator\Desktop\Point-Of-Sale\Point-Of-Sale\bin\Debug\Point-Of-Sale.xml
+C:\Users\Administrator\Desktop\Point-Of-Sale\Point-Of-Sale\obj\x86\Debug\Point_Of_Sale.Dashboard.resources
+C:\Users\Administrator\Desktop\Point-Of-Sale\Point-Of-Sale\obj\x86\Debug\Point_Of_Sale.LoginForm.resources
+C:\Users\Administrator\Desktop\Point-Of-Sale\Point-Of-Sale\obj\x86\Debug\Point_Of_Sale.Resources.resources
+C:\Users\Administrator\Desktop\Point-Of-Sale\Point-Of-Sale\obj\x86\Debug\Point_Of_Sale.PaymentForm.resources
+C:\Users\Administrator\Desktop\Point-Of-Sale\Point-Of-Sale\obj\x86\Debug\Point_Of_Sale.RecieptForm.resources
+C:\Users\Administrator\Desktop\Point-Of-Sale\Point-Of-Sale\obj\x86\Debug\Point_Of_Sale.SplashScreenForm.resources
+C:\Users\Administrator\Desktop\Point-Of-Sale\Point-Of-Sale\obj\x86\Debug\Point-Of-Sale.vbproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\Point-Of-Sale\Point-Of-Sale\bin\Debug\Point-Of-Sale.exe.manifest
+C:\Users\Administrator\Desktop\Point-Of-Sale\Point-Of-Sale\bin\Debug\Point-Of-Sale.application
+C:\Users\Administrator\Desktop\Point-Of-Sale\Point-Of-Sale\obj\x86\Debug\Point-Of-Sale.exe.manifest
+C:\Users\Administrator\Desktop\Point-Of-Sale\Point-Of-Sale\obj\x86\Debug\Point-Of-Sale.application
+D:\Point-Of-Sale\Point-Of-Sale\bin\Debug\Point-Of-Sale.exe.manifest
+D:\Point-Of-Sale\Point-Of-Sale\bin\Debug\Point-Of-Sale.application
+D:\Point-Of-Sale\Point-Of-Sale\obj\x86\Debug\Point_Of_Sale.Dashboard.resources
+D:\Point-Of-Sale\Point-Of-Sale\obj\x86\Debug\Point_Of_Sale.PaymentForm.resources
+D:\Point-Of-Sale\Point-Of-Sale\obj\x86\Debug\Point_Of_Sale.RecieptForm.resources
+D:\Point-Of-Sale\Point-Of-Sale\obj\x86\Debug\Point-Of-Sale.exe.manifest
+D:\Point-Of-Sale\Point-Of-Sale\obj\x86\Debug\Point-Of-Sale.application
+C:\Users\Ellaine-SPP\Desktop\Point-Of-Sale\Point-Of-Sale\obj\x86\Debug\Point-Of-Sale.exe
+C:\Users\Ellaine-SPP\Desktop\Point-Of-Sale\Point-Of-Sale\obj\x86\Debug\Point-Of-Sale.xml
+C:\Users\Ellaine-SPP\Desktop\Point-Of-Sale\Point-Of-Sale\obj\x86\Debug\Point-Of-Sale.pdb
+C:\Users\Ellaine-SPP\Desktop\Point-Of-Sale\Point-Of-Sale\bin\Debug\Point-Of-Sale.exe.manifest
+C:\Users\Ellaine-SPP\Desktop\Point-Of-Sale\Point-Of-Sale\bin\Debug\Point-Of-Sale.application
+C:\Users\Ellaine-SPP\Desktop\Point-Of-Sale\Point-Of-Sale\bin\Debug\Point-Of-Sale.exe
+C:\Users\Ellaine-SPP\Desktop\Point-Of-Sale\Point-Of-Sale\bin\Debug\Point-Of-Sale.pdb
+C:\Users\Ellaine-SPP\Desktop\Point-Of-Sale\Point-Of-Sale\bin\Debug\Point-Of-Sale.xml
+C:\Users\Ellaine-SPP\Desktop\Point-Of-Sale\Point-Of-Sale\obj\x86\Debug\Point_Of_Sale.Dashboard.resources
+C:\Users\Ellaine-SPP\Desktop\Point-Of-Sale\Point-Of-Sale\obj\x86\Debug\Point_Of_Sale.LoginForm.resources
+C:\Users\Ellaine-SPP\Desktop\Point-Of-Sale\Point-Of-Sale\obj\x86\Debug\Point_Of_Sale.Resources.resources
+C:\Users\Ellaine-SPP\Desktop\Point-Of-Sale\Point-Of-Sale\obj\x86\Debug\Point_Of_Sale.PaymentForm.resources
+C:\Users\Ellaine-SPP\Desktop\Point-Of-Sale\Point-Of-Sale\obj\x86\Debug\Point_Of_Sale.RecieptForm.resources
+C:\Users\Ellaine-SPP\Desktop\Point-Of-Sale\Point-Of-Sale\obj\x86\Debug\Point_Of_Sale.SplashScreenForm.resources
+C:\Users\Ellaine-SPP\Desktop\Point-Of-Sale\Point-Of-Sale\obj\x86\Debug\Point-Of-Sale.vbproj.GenerateResource.Cache
+C:\Users\Ellaine-SPP\Desktop\Point-Of-Sale\Point-Of-Sale\obj\x86\Debug\Point-Of-Sale.exe.manifest
+C:\Users\Ellaine-SPP\Desktop\Point-Of-Sale\Point-Of-Sale\obj\x86\Debug\Point-Of-Sale.application
+C:\Users\Ellaine-SPP\Desktop\Point-Of-Sale\Point-Of-Sale\obj\x86\Debug\Point_Of_Sale.PrintReceipt.resources
+C:\Users\Animation Laboratory\Desktop\Point-Of-Sale\Point-Of-Sale\bin\Debug\Point-Of-Sale.exe.manifest
+C:\Users\Animation Laboratory\Desktop\Point-Of-Sale\Point-Of-Sale\bin\Debug\Point-Of-Sale.application
+C:\Users\Animation Laboratory\Desktop\Point-Of-Sale\Point-Of-Sale\obj\x86\Debug\Point_Of_Sale.PrintReceipt.resources
+C:\Users\Animation Laboratory\Desktop\Point-Of-Sale\Point-Of-Sale\obj\x86\Debug\Point-Of-Sale.exe.manifest
+C:\Users\Animation Laboratory\Desktop\Point-Of-Sale\Point-Of-Sale\obj\x86\Debug\Point-Of-Sale.application
+C:\Users\Administrator\Desktop\Point-Of-Sale\Point-Of-Sale\obj\x86\Debug\Point_Of_Sale.PrintReceipt.resources
+C:\Users\Administrator\Desktop\Point-Of-Sale-2\Point-Of-Sale\obj\x86\Debug\Point-Of-Sale.exe
+C:\Users\Administrator\Desktop\Point-Of-Sale-2\Point-Of-Sale\obj\x86\Debug\Point-Of-Sale.xml
+C:\Users\Administrator\Desktop\Point-Of-Sale-2\Point-Of-Sale\obj\x86\Debug\Point-Of-Sale.pdb
+C:\Users\Administrator\Desktop\Point-Of-Sale-2\Point-Of-Sale\bin\Debug\Point-Of-Sale.exe.manifest
+C:\Users\Administrator\Desktop\Point-Of-Sale-2\Point-Of-Sale\bin\Debug\Point-Of-Sale.application
+C:\Users\Administrator\Desktop\Point-Of-Sale-2\Point-Of-Sale\bin\Debug\Point-Of-Sale.exe
+C:\Users\Administrator\Desktop\Point-Of-Sale-2\Point-Of-Sale\bin\Debug\Point-Of-Sale.pdb
+C:\Users\Administrator\Desktop\Point-Of-Sale-2\Point-Of-Sale\bin\Debug\Point-Of-Sale.xml
+C:\Users\Administrator\Desktop\Point-Of-Sale-2\Point-Of-Sale\obj\x86\Debug\Point_Of_Sale.Dashboard.resources
+C:\Users\Administrator\Desktop\Point-Of-Sale-2\Point-Of-Sale\obj\x86\Debug\Point_Of_Sale.LoginForm.resources
+C:\Users\Administrator\Desktop\Point-Of-Sale-2\Point-Of-Sale\obj\x86\Debug\Point_Of_Sale.Resources.resources
+C:\Users\Administrator\Desktop\Point-Of-Sale-2\Point-Of-Sale\obj\x86\Debug\Point_Of_Sale.PaymentForm.resources
+C:\Users\Administrator\Desktop\Point-Of-Sale-2\Point-Of-Sale\obj\x86\Debug\Point_Of_Sale.PrintReceipt.resources
+C:\Users\Administrator\Desktop\Point-Of-Sale-2\Point-Of-Sale\obj\x86\Debug\Point_Of_Sale.RecieptForm.resources
+C:\Users\Administrator\Desktop\Point-Of-Sale-2\Point-Of-Sale\obj\x86\Debug\Point_Of_Sale.SplashScreenForm.resources
+C:\Users\Administrator\Desktop\Point-Of-Sale-2\Point-Of-Sale\obj\x86\Debug\Point-Of-Sale.vbproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\Point-Of-Sale-2\Point-Of-Sale\obj\x86\Debug\Point-Of-Sale.exe.manifest
+C:\Users\Administrator\Desktop\Point-Of-Sale-2\Point-Of-Sale\obj\x86\Debug\Point-Of-Sale.application
+C:\Users\Ellaine-SPP\Downloads\Point-Of-Sale-2\Point-Of-Sale\obj\x86\Debug\Point-Of-Sale.exe
+C:\Users\Ellaine-SPP\Downloads\Point-Of-Sale-2\Point-Of-Sale\obj\x86\Debug\Point-Of-Sale.xml
+C:\Users\Ellaine-SPP\Downloads\Point-Of-Sale-2\Point-Of-Sale\obj\x86\Debug\Point-Of-Sale.pdb
+C:\Users\Ellaine-SPP\Downloads\Point-Of-Sale-2\Point-Of-Sale\bin\Debug\Point-Of-Sale.exe.manifest
+C:\Users\Ellaine-SPP\Downloads\Point-Of-Sale-2\Point-Of-Sale\bin\Debug\Point-Of-Sale.application
+C:\Users\Ellaine-SPP\Downloads\Point-Of-Sale-2\Point-Of-Sale\bin\Debug\Point-Of-Sale.exe
+C:\Users\Ellaine-SPP\Downloads\Point-Of-Sale-2\Point-Of-Sale\bin\Debug\Point-Of-Sale.pdb
+C:\Users\Ellaine-SPP\Downloads\Point-Of-Sale-2\Point-Of-Sale\bin\Debug\Point-Of-Sale.xml
+C:\Users\Ellaine-SPP\Downloads\Point-Of-Sale-2\Point-Of-Sale\obj\x86\Debug\Point_Of_Sale.Dashboard.resources
+C:\Users\Ellaine-SPP\Downloads\Point-Of-Sale-2\Point-Of-Sale\obj\x86\Debug\Point_Of_Sale.LoginForm.resources
+C:\Users\Ellaine-SPP\Downloads\Point-Of-Sale-2\Point-Of-Sale\obj\x86\Debug\Point_Of_Sale.Resources.resources
+C:\Users\Ellaine-SPP\Downloads\Point-Of-Sale-2\Point-Of-Sale\obj\x86\Debug\Point_Of_Sale.PaymentForm.resources
+C:\Users\Ellaine-SPP\Downloads\Point-Of-Sale-2\Point-Of-Sale\obj\x86\Debug\Point_Of_Sale.PrintReceipt.resources
+C:\Users\Ellaine-SPP\Downloads\Point-Of-Sale-2\Point-Of-Sale\obj\x86\Debug\Point_Of_Sale.RecieptForm.resources
+C:\Users\Ellaine-SPP\Downloads\Point-Of-Sale-2\Point-Of-Sale\obj\x86\Debug\Point_Of_Sale.SplashScreenForm.resources
+C:\Users\Ellaine-SPP\Downloads\Point-Of-Sale-2\Point-Of-Sale\obj\x86\Debug\Point-Of-Sale.vbproj.GenerateResource.Cache
+C:\Users\Ellaine-SPP\Downloads\Point-Of-Sale-2\Point-Of-Sale\obj\x86\Debug\Point-Of-Sale.exe.manifest
+C:\Users\Ellaine-SPP\Downloads\Point-Of-Sale-2\Point-Of-Sale\obj\x86\Debug\Point-Of-Sale.application
+C:\Users\Administrator\Downloads\Point-Of-Sale-2\Point-Of-Sale\obj\x86\Debug\Point-Of-Sale.exe
+C:\Users\Administrator\Downloads\Point-Of-Sale-2\Point-Of-Sale\obj\x86\Debug\Point-Of-Sale.xml
+C:\Users\Administrator\Downloads\Point-Of-Sale-2\Point-Of-Sale\obj\x86\Debug\Point-Of-Sale.pdb
+C:\Users\Administrator\Downloads\Point-Of-Sale-2\Point-Of-Sale\bin\Debug\Point-Of-Sale.exe.manifest
+C:\Users\Administrator\Downloads\Point-Of-Sale-2\Point-Of-Sale\bin\Debug\Point-Of-Sale.application
+C:\Users\Administrator\Downloads\Point-Of-Sale-2\Point-Of-Sale\bin\Debug\Point-Of-Sale.exe
+C:\Users\Administrator\Downloads\Point-Of-Sale-2\Point-Of-Sale\bin\Debug\Point-Of-Sale.pdb
+C:\Users\Administrator\Downloads\Point-Of-Sale-2\Point-Of-Sale\bin\Debug\Point-Of-Sale.xml
+C:\Users\Administrator\Downloads\Point-Of-Sale-2\Point-Of-Sale\obj\x86\Debug\Point_Of_Sale.Dashboard.resources
+C:\Users\Administrator\Downloads\Point-Of-Sale-2\Point-Of-Sale\obj\x86\Debug\Point_Of_Sale.LoginForm.resources
+C:\Users\Administrator\Downloads\Point-Of-Sale-2\Point-Of-Sale\obj\x86\Debug\Point_Of_Sale.Resources.resources
+C:\Users\Administrator\Downloads\Point-Of-Sale-2\Point-Of-Sale\obj\x86\Debug\Point_Of_Sale.PaymentForm.resources
+C:\Users\Administrator\Downloads\Point-Of-Sale-2\Point-Of-Sale\obj\x86\Debug\Point_Of_Sale.PrintReceipt.resources
+C:\Users\Administrator\Downloads\Point-Of-Sale-2\Point-Of-Sale\obj\x86\Debug\Point_Of_Sale.RecieptForm.resources
+C:\Users\Administrator\Downloads\Point-Of-Sale-2\Point-Of-Sale\obj\x86\Debug\Point_Of_Sale.SplashScreenForm.resources
+C:\Users\Administrator\Downloads\Point-Of-Sale-2\Point-Of-Sale\obj\x86\Debug\Point-Of-Sale.vbproj.GenerateResource.Cache
+C:\Users\Administrator\Downloads\Point-Of-Sale-2\Point-Of-Sale\obj\x86\Debug\Point-Of-Sale.exe.manifest
+C:\Users\Administrator\Downloads\Point-Of-Sale-2\Point-Of-Sale\obj\x86\Debug\Point-Of-Sale.application
+H:\Point-Of-Sale-2\Point-Of-Sale\obj\x86\Debug\Point-Of-Sale.exe
+H:\Point-Of-Sale-2\Point-Of-Sale\obj\x86\Debug\Point-Of-Sale.xml
+H:\Point-Of-Sale-2\Point-Of-Sale\obj\x86\Debug\Point-Of-Sale.pdb
+F:\Point-Of-Sale-2\Point-Of-Sale\obj\x86\Debug\Point-Of-Sale.exe
+F:\Point-Of-Sale-2\Point-Of-Sale\obj\x86\Debug\Point-Of-Sale.xml
+F:\Point-Of-Sale-2\Point-Of-Sale\obj\x86\Debug\Point-Of-Sale.pdb
+D:\Point-Of-Sale-2\Point-Of-Sale\obj\x86\Debug\Point-Of-Sale.exe
+D:\Point-Of-Sale-2\Point-Of-Sale\obj\x86\Debug\Point-Of-Sale.xml
+D:\Point-Of-Sale-2\Point-Of-Sale\obj\x86\Debug\Point-Of-Sale.pdb
+C:\Users\Laboratory 1\Desktop\Point-Of-Sale-2\Point-Of-Sale\obj\x86\Debug\Point-Of-Sale.exe
+C:\Users\Laboratory 1\Desktop\Point-Of-Sale-2\Point-Of-Sale\obj\x86\Debug\Point-Of-Sale.xml
+C:\Users\Laboratory 1\Desktop\Point-Of-Sale-2\Point-Of-Sale\obj\x86\Debug\Point-Of-Sale.pdb
+C:\Users\Laboratory 1\Desktop\Point-Of-Sale-2\Point-Of-Sale\bin\Debug\Point-Of-Sale.exe.manifest
+C:\Users\Laboratory 1\Desktop\Point-Of-Sale-2\Point-Of-Sale\bin\Debug\Point-Of-Sale.application
+C:\Users\Laboratory 1\Desktop\Point-Of-Sale-2\Point-Of-Sale\bin\Debug\Point-Of-Sale.exe
+C:\Users\Laboratory 1\Desktop\Point-Of-Sale-2\Point-Of-Sale\bin\Debug\Point-Of-Sale.pdb
+C:\Users\Laboratory 1\Desktop\Point-Of-Sale-2\Point-Of-Sale\bin\Debug\Point-Of-Sale.xml
+C:\Users\Laboratory 1\Desktop\Point-Of-Sale-2\Point-Of-Sale\obj\x86\Debug\Point_Of_Sale.Dashboard.resources
+C:\Users\Laboratory 1\Desktop\Point-Of-Sale-2\Point-Of-Sale\obj\x86\Debug\Point_Of_Sale.LoginForm.resources
+C:\Users\Laboratory 1\Desktop\Point-Of-Sale-2\Point-Of-Sale\obj\x86\Debug\Point_Of_Sale.Resources.resources
+C:\Users\Laboratory 1\Desktop\Point-Of-Sale-2\Point-Of-Sale\obj\x86\Debug\Point_Of_Sale.PaymentForm.resources
+C:\Users\Laboratory 1\Desktop\Point-Of-Sale-2\Point-Of-Sale\obj\x86\Debug\Point_Of_Sale.PrintReceipt.resources
+C:\Users\Laboratory 1\Desktop\Point-Of-Sale-2\Point-Of-Sale\obj\x86\Debug\Point_Of_Sale.RecieptForm.resources
+C:\Users\Laboratory 1\Desktop\Point-Of-Sale-2\Point-Of-Sale\obj\x86\Debug\Point_Of_Sale.SplashScreenForm.resources
+C:\Users\Laboratory 1\Desktop\Point-Of-Sale-2\Point-Of-Sale\obj\x86\Debug\Point-Of-Sale.vbproj.GenerateResource.Cache
+C:\Users\Laboratory 1\Desktop\Point-Of-Sale-2\Point-Of-Sale\obj\x86\Debug\Point-Of-Sale.exe.manifest
+C:\Users\Laboratory 1\Desktop\Point-Of-Sale-2\Point-Of-Sale\obj\x86\Debug\Point-Of-Sale.application
+C:\Users\Laboratory 1\Desktop\IT WEEK PACKAGE\Point-Of-Sale-VB10\Point-Of-Sale\obj\x86\Debug\Point-Of-Sale.exe
+C:\Users\Laboratory 1\Desktop\IT WEEK PACKAGE\Point-Of-Sale-VB10\Point-Of-Sale\obj\x86\Debug\Point-Of-Sale.xml
+C:\Users\Laboratory 1\Desktop\IT WEEK PACKAGE\Point-Of-Sale-VB10\Point-Of-Sale\obj\x86\Debug\Point-Of-Sale.pdb
+C:\Users\Laboratory 1\Desktop\IT WEEK PACKAGE\Point-Of-Sale-VB10\Point-Of-Sale\bin\Debug\Point-Of-Sale.exe.manifest
+C:\Users\Laboratory 1\Desktop\IT WEEK PACKAGE\Point-Of-Sale-VB10\Point-Of-Sale\bin\Debug\Point-Of-Sale.application
+C:\Users\Laboratory 1\Desktop\IT WEEK PACKAGE\Point-Of-Sale-VB10\Point-Of-Sale\bin\Debug\Point-Of-Sale.exe
+C:\Users\Laboratory 1\Desktop\IT WEEK PACKAGE\Point-Of-Sale-VB10\Point-Of-Sale\bin\Debug\Point-Of-Sale.pdb
+C:\Users\Laboratory 1\Desktop\IT WEEK PACKAGE\Point-Of-Sale-VB10\Point-Of-Sale\bin\Debug\Point-Of-Sale.xml
+C:\Users\Laboratory 1\Desktop\IT WEEK PACKAGE\Point-Of-Sale-VB10\Point-Of-Sale\obj\x86\Debug\Point_Of_Sale.Dashboard.resources
+C:\Users\Laboratory 1\Desktop\IT WEEK PACKAGE\Point-Of-Sale-VB10\Point-Of-Sale\obj\x86\Debug\Point_Of_Sale.LoginForm.resources
+C:\Users\Laboratory 1\Desktop\IT WEEK PACKAGE\Point-Of-Sale-VB10\Point-Of-Sale\obj\x86\Debug\Point_Of_Sale.Resources.resources
+C:\Users\Laboratory 1\Desktop\IT WEEK PACKAGE\Point-Of-Sale-VB10\Point-Of-Sale\obj\x86\Debug\Point_Of_Sale.PaymentForm.resources
+C:\Users\Laboratory 1\Desktop\IT WEEK PACKAGE\Point-Of-Sale-VB10\Point-Of-Sale\obj\x86\Debug\Point_Of_Sale.PrintReceipt.resources
+C:\Users\Laboratory 1\Desktop\IT WEEK PACKAGE\Point-Of-Sale-VB10\Point-Of-Sale\obj\x86\Debug\Point_Of_Sale.RecieptForm.resources
+C:\Users\Laboratory 1\Desktop\IT WEEK PACKAGE\Point-Of-Sale-VB10\Point-Of-Sale\obj\x86\Debug\Point_Of_Sale.SplashScreenForm.resources
+C:\Users\Laboratory 1\Desktop\IT WEEK PACKAGE\Point-Of-Sale-VB10\Point-Of-Sale\obj\x86\Debug\Point-Of-Sale.vbproj.GenerateResource.Cache
+C:\Users\Laboratory 1\Desktop\IT WEEK PACKAGE\Point-Of-Sale-VB10\Point-Of-Sale\obj\x86\Debug\Point-Of-Sale.exe.manifest
+C:\Users\Laboratory 1\Desktop\IT WEEK PACKAGE\Point-Of-Sale-VB10\Point-Of-Sale\obj\x86\Debug\Point-Of-Sale.application
+C:\Users\CSS Laboratory\Desktop\IT WEEK PACKAGE\Point-Of-Sale-VB10\Point-Of-Sale\obj\x86\Debug\Point-Of-Sale.exe
+C:\Users\CSS Laboratory\Desktop\IT WEEK PACKAGE\Point-Of-Sale-VB10\Point-Of-Sale\obj\x86\Debug\Point-Of-Sale.xml
+C:\Users\CSS Laboratory\Desktop\IT WEEK PACKAGE\Point-Of-Sale-VB10\Point-Of-Sale\obj\x86\Debug\Point-Of-Sale.pdb
+D:\IT WEEK PACKAGE\Point-Of-Sale-VB10\Point-Of-Sale\obj\x86\Debug\Point-Of-Sale.exe
+D:\IT WEEK PACKAGE\Point-Of-Sale-VB10\Point-Of-Sale\obj\x86\Debug\Point-Of-Sale.xml
+D:\IT WEEK PACKAGE\Point-Of-Sale-VB10\Point-Of-Sale\obj\x86\Debug\Point-Of-Sale.pdb
+C:\Users\Ellaine Almira\OneDrive\Desktop\IT WEEK PACKAGE\Point-Of-Sale-VB10\Point-Of-Sale\obj\x86\Debug\Point-Of-Sale.exe
+C:\Users\Ellaine Almira\OneDrive\Desktop\IT WEEK PACKAGE\Point-Of-Sale-VB10\Point-Of-Sale\obj\x86\Debug\Point-Of-Sale.xml
+C:\Users\Ellaine Almira\OneDrive\Desktop\IT WEEK PACKAGE\Point-Of-Sale-VB10\Point-Of-Sale\obj\x86\Debug\Point-Of-Sale.pdb
+C:\Users\Ellaine Almira\OneDrive\Desktop\2ND YEAR PROJECTS\IT WEEK PACKAGE\Point-Of-Sale-VB10\Point-Of-Sale\obj\x86\Debug\Point-Of-Sale.exe
+C:\Users\Ellaine Almira\OneDrive\Desktop\2ND YEAR PROJECTS\IT WEEK PACKAGE\Point-Of-Sale-VB10\Point-Of-Sale\obj\x86\Debug\Point-Of-Sale.xml
+C:\Users\Ellaine Almira\OneDrive\Desktop\2ND YEAR PROJECTS\IT WEEK PACKAGE\Point-Of-Sale-VB10\Point-Of-Sale\obj\x86\Debug\Point-Of-Sale.pdb
+C:\Users\Ellaine Almira\OneDrive\Desktop\2ND YEAR PROJECTS\IT WEEK PACKAGE\Point-Of-Sale-VB10\Point-Of-Sale\bin\Debug\Point-Of-Sale.exe.manifest
+C:\Users\Ellaine Almira\OneDrive\Desktop\2ND YEAR PROJECTS\IT WEEK PACKAGE\Point-Of-Sale-VB10\Point-Of-Sale\bin\Debug\Point-Of-Sale.application
+C:\Users\Ellaine Almira\OneDrive\Desktop\2ND YEAR PROJECTS\IT WEEK PACKAGE\Point-Of-Sale-VB10\Point-Of-Sale\bin\Debug\Point-Of-Sale.exe
+C:\Users\Ellaine Almira\OneDrive\Desktop\2ND YEAR PROJECTS\IT WEEK PACKAGE\Point-Of-Sale-VB10\Point-Of-Sale\bin\Debug\Point-Of-Sale.pdb
+C:\Users\Ellaine Almira\OneDrive\Desktop\2ND YEAR PROJECTS\IT WEEK PACKAGE\Point-Of-Sale-VB10\Point-Of-Sale\bin\Debug\Point-Of-Sale.xml
+C:\Users\Ellaine Almira\OneDrive\Desktop\2ND YEAR PROJECTS\IT WEEK PACKAGE\Point-Of-Sale-VB10\Point-Of-Sale\obj\x86\Debug\Point_Of_Sale.Dashboard.resources
+C:\Users\Ellaine Almira\OneDrive\Desktop\2ND YEAR PROJECTS\IT WEEK PACKAGE\Point-Of-Sale-VB10\Point-Of-Sale\obj\x86\Debug\Point_Of_Sale.LoginForm.resources
+C:\Users\Ellaine Almira\OneDrive\Desktop\2ND YEAR PROJECTS\IT WEEK PACKAGE\Point-Of-Sale-VB10\Point-Of-Sale\obj\x86\Debug\Point_Of_Sale.Resources.resources
+C:\Users\Ellaine Almira\OneDrive\Desktop\2ND YEAR PROJECTS\IT WEEK PACKAGE\Point-Of-Sale-VB10\Point-Of-Sale\obj\x86\Debug\Point_Of_Sale.PaymentForm.resources
+C:\Users\Ellaine Almira\OneDrive\Desktop\2ND YEAR PROJECTS\IT WEEK PACKAGE\Point-Of-Sale-VB10\Point-Of-Sale\obj\x86\Debug\Point_Of_Sale.PrintReceipt.resources
+C:\Users\Ellaine Almira\OneDrive\Desktop\2ND YEAR PROJECTS\IT WEEK PACKAGE\Point-Of-Sale-VB10\Point-Of-Sale\obj\x86\Debug\Point_Of_Sale.RecieptForm.resources
+C:\Users\Ellaine Almira\OneDrive\Desktop\2ND YEAR PROJECTS\IT WEEK PACKAGE\Point-Of-Sale-VB10\Point-Of-Sale\obj\x86\Debug\Point_Of_Sale.SplashScreenForm.resources
+C:\Users\Ellaine Almira\OneDrive\Desktop\2ND YEAR PROJECTS\IT WEEK PACKAGE\Point-Of-Sale-VB10\Point-Of-Sale\obj\x86\Debug\Point-Of-Sale.vbproj.GenerateResource.Cache
+C:\Users\Ellaine Almira\OneDrive\Desktop\2ND YEAR PROJECTS\IT WEEK PACKAGE\Point-Of-Sale-VB10\Point-Of-Sale\obj\x86\Debug\Point-Of-Sale.exe.manifest
+C:\Users\Ellaine Almira\OneDrive\Desktop\2ND YEAR PROJECTS\IT WEEK PACKAGE\Point-Of-Sale-VB10\Point-Of-Sale\obj\x86\Debug\Point-Of-Sale.application
